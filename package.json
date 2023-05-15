@@ -12,11 +12,18 @@
     "@types/node": "20.1.2",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.1",
+    "js-md5": "^0.7.3",
+    "md5": "^2.3.0",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/js-md5": "^0.7.0"
   }
 }
